@@ -6,13 +6,6 @@
   >✨ 𝘛𝘢𝘮𝘱𝘪𝘭𝘢𝘯 ✨
 
 <p align="left">
-  <img src="https://github.com/ZoraaCode/FCB/blob/main/asset/image/Screenshot_2024-02-09-23-12-18-61_84d3000e3f4017145260f7618db1d683.jpg" />
+  <img src="https://github.com/ZoraaCode/IGS/blob/main/Image/Screenshot_2024-02-13-23-59-30-41_84d3000e3f4017145260f7618db1d683.jpg" />
 </p>
-
-<p align="center">✨ 𝘙𝘦𝘴𝘶𝘭𝘵 𝘖𝘒 ✨</p>
-
-<p align="left">
-  <img src="https://github.com/ZoraaCode/FCB/blob/main/asset/image/IMG_20240210_035739.jpg" />
-</p>
-
 
