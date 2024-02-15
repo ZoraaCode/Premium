@@ -24,7 +24,5 @@ except ImportError:
 from asset.instagram import Instagram as Zora_ID
    
 if __name__=='__main__':
-    try: os.system("git pull")
-    except: pass
-    try: Zora_ID().menuinsta()
+    try: os.system("git pull"); Zora_ID().menuinsta()
     except Exception as e: exit(str(e).title())
