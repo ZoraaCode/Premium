@@ -21,8 +21,8 @@ try:
 except ImportError:
     os.system('pkg install clang python libffi openssl libsodium && SODIUM_INSTALL=system pip install pynacl')
   
-from facebook import Facebook as Zora_ID
+from instagram import Instagram
    
 if __name__=='__main__':
-    try: os.system("git pull"); Zora_ID().menuinsta()
+    try: os.system("git pull"); Instagram()
     except Exception as e: exit(str(e).title())
