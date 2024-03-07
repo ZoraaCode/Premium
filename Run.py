@@ -10,6 +10,8 @@ class Assetnya:
   def Create_Dir(self):
     try: os.mkdir('/sdcard/OK')
     except: pass
+    try: os.mkdir('/sdcard/2F')
+    except: pass
     try: os.mkdir('/sdcard/CP')
     except: pass
       
