@@ -27,10 +27,10 @@
   <img src="https://github.com/ZoraaCode/Premium/blob/main/support/image/Screenshot_2024-03-09-17-19-26-54_84d3000e3f4017145260f7618db1d683.jpg" />
 </p>
 
-### Result Instagram
+### Tampilan Facebook
 
 <p align="left">
-  <img src="https://github.com/ZoraaCode/Premium/blob/main/support/image/Screenshot_2024-03-05-06-15-29-98_84d3000e3f4017145260f7618db1d683.jpg" />
+  <img src="https://github.com/ZoraaCode/Premium/blob/main/support/image/Screenshot_2024-03-09-17-49-32-49_84d3000e3f4017145260f7618db1d683.jpg" />
 </p>
 
 ### Sosial Media
