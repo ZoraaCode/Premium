@@ -42,7 +42,7 @@
 ### Result Facebook
 
 <p align="left">
-  <img src="https://github.com/ZoraaCode/Premium/blob/main/support/image/Screenshot_2024-03-09-17-49-32-49_84d3000e3f4017145260f7618db1d683.jpg" />
+  <img src="https://github.com/ZoraaCode/Premium/blob/main/support/image/IMG-20240311-WA0088.jpg" />
 </p>
 
 ### Sosial Media
