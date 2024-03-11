@@ -1,4 +1,4 @@
-### Install on termux/linux
+#### - *Run a Terminal (Termux - Linux) :*
 
     • rm -rf Premium
     • pkg update && pkg upgrade -y
@@ -14,38 +14,38 @@
     • cd Premium
     • python Run.py
 
-### Run termux/linux
+#### - *Run Script's :*
 
     • cd
     • cd Premium
     • python Run.py
     
 
-### Tampilan Instagram
+#### - *Tampilan Instagram!*
 
 <p align="left">
   <img src="https://github.com/ZoraaCode/Premium/blob/main/support/image/Screenshot_2024-03-09-17-19-26-54_84d3000e3f4017145260f7618db1d683.jpg" />
 </p>
 
-### Result Instagram
+#### - *💥 Result Instagram 💥:*
+
+<p align="left">
+  <img src="https://github.com/ZoraaCode/Premium/blob/main/support/image/Screenshot_2024-03-11-17-10-37-14_84d3000e3f4017145260f7618db1d683.jpg" />
+</p>
+
+#### - *Tampilan Facebook!*
 
 <p align="left">
   <img src="https://github.com/ZoraaCode/Premium/blob/main/support/image/Screenshot_2024-03-09-17-49-32-49_84d3000e3f4017145260f7618db1d683.jpg" />
 </p>
 
-### Tampilan Facebook
-
-<p align="left">
-  <img src="https://github.com/ZoraaCode/Premium/blob/main/support/image/Screenshot_2024-03-09-17-49-32-49_84d3000e3f4017145260f7618db1d683.jpg" />
-</p>
-
-### Result Facebook
+#### - *💥 Result Facebook 💥:*
 
 <p align="left">
   <img src="https://github.com/ZoraaCode/Premium/blob/main/support/image/IMG-20240311-WA0088.jpg" />
 </p>
 
-### Sosial Media
+#### - *Sosial Media!*
 
     • https://facebook.com/partner.hmei3
     • https://wa.me/+6283140199711
