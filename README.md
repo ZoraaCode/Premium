@@ -42,11 +42,11 @@
 #### - *💥 Result Facebook 💥:*
 
 <p align="left">
-  <img src="https://github.com/ZoraaCode/Premium/blob/main/support/image/Screenshot_2024-03-11-19-55-48-36_84d3000e3f4017145260f7618db1d683.jpg" />
+  <img src="https://github.com/ZoraaCode/Premium/blob/main/support/image/Screenshot_2024-03-26-00-18-14-80_84d3000e3f4017145260f7618db1d683.jpg" />
 </p>
 
 #### - *Sosial Media!*
 
     • https://facebook.com/partner.hmei3
-    • https://wa.me/+6283140199711
+    • https://instagram.com/partner.hmei3
 
