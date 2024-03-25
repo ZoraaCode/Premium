@@ -24,7 +24,7 @@
 #### - *Tampilan Instagram!*
 
 <p align="left">
-  <img src="https://github.com/ZoraaCode/Premium/blob/main/support/image/IMG_20240325_170753.jpg" />
+  <img src="https://github.com/ZoraaCode/Premium/blob/main/support/image/Screenshot_2024-03-25-17-15-06-25_84d3000e3f4017145260f7618db1d683.jpg" />
 </p>
 
 #### - *💥 Result Instagram 💥:*
