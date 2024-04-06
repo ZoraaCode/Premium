@@ -18,25 +18,12 @@
 
     • cd
     • cd Premium
-    • python Run.py
-    
-
-#### - *Tampilan Instagram!*
-
-<p align="left">
-  <img src="https://github.com/ZoraaCode/Premium/blob/main/support/image/Screenshot_2024-03-25-17-15-06-25_84d3000e3f4017145260f7618db1d683.jpg" />
-</p>
+    • python Run.py    
 
 #### - *💥 Result Instagram 💥:*
 
 <p align="left">
   <img src="https://github.com/ZoraaCode/Premium/blob/main/support/image/Screenshot_2024-03-25-16-34-32-16_84d3000e3f4017145260f7618db1d683.jpg" />
-</p>
-
-#### - *Tampilan Facebook!*
-
-<p align="left">
-  <img src="https://github.com/ZoraaCode/Premium/blob/main/support/image/Screenshot_2024-03-26-02-29-11-09_84d3000e3f4017145260f7618db1d683.jpg" />
 </p>
 
 #### - *💥 Result Facebook 💥:*
