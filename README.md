@@ -29,7 +29,7 @@
 #### - *💥 Result Facebook 💥:*
 
 <p align="left">
-  <img src="https://github.com/ZoraaCode/Premium/blob/main/support/image/Screenshot_2024-03-26-00-18-14-80_84d3000e3f4017145260f7618db1d683.jpg" />
+  <img src="https://github.com/ZoraaCode/Premium/blob/main/support/image/IMG-20240311-WA0088(1).jpg" />
 </p>
 
 #### - *Sosial Media!*
